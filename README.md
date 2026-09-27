@@ -27,7 +27,7 @@ variant_id  pos ref alt predicted_consequence  clinically_flagged
         v5  888   C   T              missense               False
 ```
 
-![example chart](docs/example_output.png)
+![example chart](example_output.png)
 
 ## Tests
 
