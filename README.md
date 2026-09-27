@@ -1,4 +1,3 @@
-# variant-impact-classifier
 # Variant Impact Classifier
 
 A small Python tool that predicts whether a DNA variant is **synonymous, missense, nonsense, or frameshift**, and flags the ones that are clinically significant (premature stop codons, frame shifts).
